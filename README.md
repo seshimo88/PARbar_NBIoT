@@ -1,5 +1,5 @@
 
-# IoT devices with PAR sensors 
+# IoT device with Analog Reading 
 
 A research project to develop IoT devices and PAR sensors to measure the photosynthetically active radiation. 
 
